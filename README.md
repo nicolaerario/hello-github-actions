@@ -129,7 +129,7 @@ In this step of our exercise, we will add a "build" job. We will specify `ubuntu
   Define terms and link to docs.github.com.
 -->
 
-<details id=3 open>
+<details id=3>
 <summary><h2>Step 3: Add actions to your workflow file</h2></summary>
 
 _Nice work adding a job to your workflow! :dancer:_
@@ -175,7 +175,7 @@ In our action, we will have steps for each of the following:
   Define terms and link to docs.github.com.
 -->
 
-<details id=4>
+<details id=4 open>
 <summary><h2>Step 4: Merge your workflow file</h2></summary>
 
 _You're now able to write and run an Actions workflow! :sparkles:_
